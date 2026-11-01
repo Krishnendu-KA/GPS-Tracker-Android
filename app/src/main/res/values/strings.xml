@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GPS Tracker</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="share">Share</string>
+    <string name="clear">Clear</string>
+    <string name="waiting_fix">Waiting for GPS fix…</string>
+    <string name="tracking_active">Tracking Active</string>
+    <string name="tracking_idle">Tracking Idle</string>
+    <string name="permission_denied_message">Location permission is required to track your GPS position.</string>
+    <string name="location_disabled_message">Device location is turned off. Please enable GPS in device settings.</string>
+    <string name="play_services_missing">Google Play Services is unavailable on this device.</string>
+    <string name="missing_api_key_banner">Maps API key is missing in local.properties. Map tiles cannot load, but GPS tracking works normally.</string>
+    <string name="history_cleared">History cleared successfully.</string>
+    <string name="no_location_to_share">No location recorded yet. Start tracking first.</string>
+    <string name="share_subject">My Current GPS Location</string>
+</resources>

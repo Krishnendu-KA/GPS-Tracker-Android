@@ -1,0 +1,59 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+app/build/
+
+# Gradle files
+.gradle/
+buildOutputCleanup/
+
+# Local configuration file (contains local SDK path & Google Maps API key)
+local.properties
+
+# Log files
+*.log
+
+# Android Studio / IntelliJ IDEA
+*.iml
+.idea/
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/deploymentTargetSelector.xml
+
+# Kotlin build cache
+.kotlin/
+*.kotlin_module
+
+# Native build
+.externalNativeBuild
+.cxx
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Key stores and local secret files
+*.key
+*.keystore
+*.jks
+credentials.json
+google-services.json
+secrets.xml

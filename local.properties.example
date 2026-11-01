@@ -1,0 +1,7 @@
+# Android SDK path on your local machine
+# Example for Windows: sdk.dir=C:\\Users\\<YourUsername>\\AppData\\Local\\Android\\Sdk
+# Example for macOS/Linux: sdk.dir=/Users/<YourUsername>/Library/Android/sdk
+sdk.dir=
+
+# Google Maps API Key obtained from Google Cloud Console with Maps SDK for Android enabled
+MAPS_API_KEY=YOUR_GOOGLE_MAPS_API_KEY_HERE
